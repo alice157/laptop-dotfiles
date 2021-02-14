@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 base=(
-    zsh,
+    zsh
     nvim
 )
 
